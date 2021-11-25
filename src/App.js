@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Some change for travis trigger after setting travis plan
+          Hello Miki
         </p>
         <a
           className="App-link"
