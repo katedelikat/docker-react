@@ -13,7 +13,7 @@ deploy:
   region: "eu-central-1"
   app: "docker"
   env: "Docker-env-1"
-  bucket_name: "Docker-env-1.eba-rsazzkid.eu-central-1.elasticbeanstalk.com"
+  bucket_name: "elasticbeanstalk-eu-central-1-664146866794"
   bucket_path: "docker"
   on:
     branch: master
